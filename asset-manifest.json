@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/edougla5/mern-application/static/css/main.705b8a55.css",
+    "main.js": "/edougla5/mern-application/static/js/main.568eeb5d.js",
+    "static/media/monthArrow.png": "/edougla5/mern-application/static/media/monthArrow.500d1ca0c882f14e6c4d.png",
+    "index.html": "/edougla5/mern-application/index.html",
+    "main.705b8a55.css.map": "/edougla5/mern-application/static/css/main.705b8a55.css.map",
+    "main.568eeb5d.js.map": "/edougla5/mern-application/static/js/main.568eeb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.705b8a55.css",
+    "static/js/main.568eeb5d.js"
+  ]
+}
